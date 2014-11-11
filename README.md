@@ -12,6 +12,8 @@ Crying Chopper by CSS only. Try to move your mouse over it! XD
 - 2014-07-26 桃園前端技術社群Workshop範例教材
 - 國外各技術論壇轉載
 
+### What did they say?
+
 [Chris Chambers](http://codepen.io/cchambers) says:
 > Chopper!
 Very nice.
