@@ -2,6 +2,9 @@
 
 Crying Chopper by CSS only. Try to move your mouse over it! XD
 
+### Screenshot
+![Chopper by pure CSS](screenshot.png?raw=true)
+
 ### Showcase
 - [http://codepen.io/aaronchuo/pen/arHqn](http://codepen.io/aaronchuo/pen/arHqn) by Aaron Chuo
 
